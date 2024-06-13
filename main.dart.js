@@ -73063,7 +73063,7 @@ A.Ea.prototype={
 J(a){var s=null,r=A.al(a,s,t.w).w.a.a<=700?50:60,q=A.f4(20),p=A.a([B.aZ,B.ea],t.W)
 return A.Fr(!1,s,!0,A.dc(B.Z,A.ep(A.a([A.eu("Download CV",s,s,A.ab(a).p3.ax.a5U(B.h,B.ac,1.2)),B.P1,B.Ga],t.p),B.O,B.K,B.X),B.u,s,s,new A.cp(s,s,s,q,B.GY,new A.hs(B.xM,B.xL,B.a8,p,s,s),B.aj),r,s,B.Fr,s),s,!0,s,s,s,s,s,s,s,s,s,new A.Vw(),s,s,s,s)}}
 A.Vw.prototype={
-$0(){A.te(A.fv("https://drive.google.com/file/d/18poLylFGfJJzV9_n31urs9xM9fbHr8I5/view?usp=sharing",0,null))},
+$0(){A.te(A.fv("https://drive.google.com/file/d/1kdMztsyPTz6OVsU_aQuY2llI7lrnAIeZ/view",0,null))},
 $S:0}
 A.iy.prototype={
 J(a){var s=null
